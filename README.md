@@ -1,0 +1,14 @@
+-ls
+-ls/
+-ls /usr
+-pwd
+-cd
+-cd /
+-mkdir
+-touch
+-cp
+-mv
+-rm
+-cat
+-vi
+
